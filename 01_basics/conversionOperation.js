@@ -15,3 +15,15 @@ console.log(valueInNumber);
  //0=> false ;1=> true
  //""=>false
  //"rahul"=> true;
+ // *************************** Operations ************ 
+let value=3
+let negvalue= -value
+// console.log(negvalue)
+let str1="hello"
+let str2=" Rahul"
+let str3=str1 + str2
+console.log(str3);
+console.log(1+1+"2");
+// it converts according to which type of data comes first.
+console.log("2"+3+3)
+
