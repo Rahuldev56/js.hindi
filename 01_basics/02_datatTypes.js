@@ -17,7 +17,7 @@ newName="Rahul Garg";
 console.log(myName);
 console.log(newName);
  // All primittives data types follow call by value rule i.e when you assign the
- // value of one variable to another variable then only vopy of value occurs.
+ // value of one variable to another variable then only copy of value occurs.
 
 
 let obj={
