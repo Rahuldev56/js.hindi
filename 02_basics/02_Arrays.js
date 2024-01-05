@@ -7,7 +7,7 @@ console.log(allHeroes)
 // concat method add/combine  two or more Arrays or values  and return the new Array.
 // we can use spread operator instead of concat .
 const newHeroes=[...marvelHeros,...dcHeros]
-console.log(newHeroes);
+console.log( newHeroes);
 // is Array Method
 const myString="Rahul dev"
 console.log(Array.isArray(myString));

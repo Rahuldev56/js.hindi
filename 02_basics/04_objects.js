@@ -34,3 +34,6 @@ console.log(Object.keys(newUser));
 //Object.keys method returns  the keys of the object  as a array.
 console.log(Object.values(newUser));
 //Object.values  method returns  the keys of an object  as an  array.
+//destrucutre of javaScript Object.
+const{name:full_Name}=newUser
+console.log(full_Name);
