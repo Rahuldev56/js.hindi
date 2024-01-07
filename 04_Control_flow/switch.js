@@ -1,4 +1,4 @@
-const month=3
+const month=10
 switch (month) {
     case 1:
         console.log("January")
@@ -32,10 +32,10 @@ switch (month) {
         break;
     case 10:
         console.log("October")
-        break;
+      break;
     case 11:
         console.log("November")
-        break;
+      break;
 
     default:
         console.log("December")
