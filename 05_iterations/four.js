@@ -26,3 +26,14 @@ const ans2=myNumbers.map((nums)=>{
     return nums*10;
 }).map((nums)=>(nums+1)).filter((nums)=>nums>50)
 console.log(ans2)
+
+// reduce function in javaScript.
+//The final result of running the reduce across all elements of the array is a single value.
+const newArr=[1,2,3,4,5,6,7,8,9]
+const ans1= newArr.reduce((acc,item)=>{
+    
+        return acc+item
+    
+
+},2);
+console.log(ans1);
