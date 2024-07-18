@@ -17,6 +17,7 @@ const ans= () => {
 
 }
 ans();
+// inside the function using this keyword gives us undefined value.
 //const addTwo = (num1,num2) => {
 //return num1+num2
 // we have to use return keyword with curly braces.
